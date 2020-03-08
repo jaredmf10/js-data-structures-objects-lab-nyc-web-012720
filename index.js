@@ -1,2 +1,6 @@
 // Write your solution in this file!
-let driver = []
+let driver = {}
+
+function destructivelyDeleteFromDriverByKey(driver, key) {
+
+}
